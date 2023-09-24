@@ -1,0 +1,9 @@
+Name=98434604
+gamesave=gamesave
+mode#=2.0
+control#=1.0
+Renegade log file
+Log created at 17:23:35 on 06 Jan 2023
+--------------End of log--------------
+Error - Movie Not Loaded
+-------------Start of log-----------------

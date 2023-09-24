@@ -1,0 +1,7 @@
+@tracks(
+track1=game.wma
+track2=main.wma
+track3=select.wma
+track4=options.wma
+track5=credits.wma
+)
